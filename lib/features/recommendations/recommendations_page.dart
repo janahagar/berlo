@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:geolocator/geolocator.dart';
+import 'package:google_fonts/google_fonts.dart';
 import 'dart:math';
 import '../map/map_page.dart';
 
@@ -105,7 +106,7 @@ List<Attraction> attractions = [
   ),
   Attraction(
     name: 'Berlin Zoo',
-    description: 'One of the world’s most famous zoos.',
+    description: 'One of the world\'s most famous zoos.',
     lat: 52.5080,
     lng: 13.3370,
     note: 'Great for families.',

@@ -1,0 +1,27 @@
+{
+  "model_name": "berlin_landmarks_model",
+  "version": "1.0",
+  "description": "Random Forest model for Berlin landmarks recognition",
+  "input_shape": [
+    50176
+  ],
+  "output_shape": [
+    11
+  ],
+  "labels": [
+    "berlin_cathedral",
+    "berlin_zoo",
+    "brandenburg_gate",
+    "charlottenburg_palace",
+    "checkpoint_charlie",
+    "east_side_gallery",
+    "gendarmenmarkt",
+    "hackescher_markt",
+    "museum_island",
+    "olympic_stadium",
+    "victory_column"
+  ],
+  "accuracy": 0.3333333333333333,
+  "framework": "Random Forest",
+  "feature_type": "Flattened grayscale"
+}

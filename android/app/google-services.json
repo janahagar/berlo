@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "499450135516",
+    "project_id": "berlin-landmark-recognit-94ed0",
+    "storage_bucket": "berlin-landmark-recognit-94ed0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499450135516:android:51ac51986c745a1f430519",
+        "android_client_info": {
+          
+          "package_name": "com.example.work1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWInrzojlSpuVK5zm80WAV9fcKO2p4fCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

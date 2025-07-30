@@ -1,0 +1,11 @@
+0: berlin_cathedral
+1: berlin_zoo
+2: brandenburg_gate
+3: charlottenburg_palace
+4: checkpoint_charlie
+5: east_side_gallery
+6: gendarmenmarkt
+7: hackescher_markt
+8: museum_island
+9: olympic_stadium
+10: victory_column
